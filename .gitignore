@@ -1,0 +1,9 @@
+pulse_data/
+pulse_logs/
+*.db
+*.db-wal
+*.db-shm
+.env
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
