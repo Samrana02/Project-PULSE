@@ -1,0 +1,328 @@
+alert_id,route_id,effect,cause,severity,header,route_name,transit_mode
+1001814,Orange,STATION_ISSUE,UNKNOWN_CAUSE,1,"The platform at Jackson Square is undergoing renovations to improve safety and accessibility. Sections of the platform are unlevel, which may make it difficult for some riders to board and exit trains.",Orange Line,Subway
+1046615,350,BIKE_ISSUE,UNKNOWN_CAUSE,3,"The west bike cage at Alewife will be closed due to maintenance beginning Monday, December 14. Bikers may use the east bike cage. ",North Burlington - Alewife Station,Bus
+1046615,62,BIKE_ISSUE,UNKNOWN_CAUSE,3,"The west bike cage at Alewife will be closed due to maintenance beginning Monday, December 14. Bikers may use the east bike cage. ",Bedford VA Hospital - Alewife Station,Bus
+1046615,67,BIKE_ISSUE,UNKNOWN_CAUSE,3,"The west bike cage at Alewife will be closed due to maintenance beginning Monday, December 14. Bikers may use the east bike cage. ",Turkey Hill - Alewife Station,Bus
+1046615,76,BIKE_ISSUE,UNKNOWN_CAUSE,3,"The west bike cage at Alewife will be closed due to maintenance beginning Monday, December 14. Bikers may use the east bike cage. ",Lincoln Lab - Alewife Station,Bus
+1046615,Red,BIKE_ISSUE,UNKNOWN_CAUSE,3,"The west bike cage at Alewife will be closed due to maintenance beginning Monday, December 14. Bikers may use the east bike cage. ",Red Line,Subway
+1033322,CR-Fitchburg,ELEVATOR_CLOSURE,UNKNOWN_CAUSE,8,South Acton Elevator 704 (Track 1 (outbound platform) to pedestrian bridge) is unavailable.,Fitchburg Line,Commuter Rail
+1047340,80,DELAY,TRAFFIC,5,Route 80 is experiencing delays of about 20 minutes due to traffic.,Arlington Center - Lechmere Station,Bus
+1009804,350,ESCALATOR_CLOSURE,MAINTENANCE,3,Alewife Escalator 351 (Main concourse to platform) is unavailable due to maintenance.,North Burlington - Alewife Station,Bus
+1009804,62,ESCALATOR_CLOSURE,MAINTENANCE,3,Alewife Escalator 351 (Main concourse to platform) is unavailable due to maintenance.,Bedford VA Hospital - Alewife Station,Bus
+1009804,67,ESCALATOR_CLOSURE,MAINTENANCE,3,Alewife Escalator 351 (Main concourse to platform) is unavailable due to maintenance.,Turkey Hill - Alewife Station,Bus
+1009804,76,ESCALATOR_CLOSURE,MAINTENANCE,3,Alewife Escalator 351 (Main concourse to platform) is unavailable due to maintenance.,Lincoln Lab - Alewife Station,Bus
+1009804,Red,ESCALATOR_CLOSURE,MAINTENANCE,3,Alewife Escalator 351 (Main concourse to platform) is unavailable due to maintenance.,Red Line,Subway
+1047411,Orange,ELEVATOR_CLOSURE,MAINTENANCE,3,"Chinatown Elevator 876 (Oak Grove platform to Washington St, Essex St) is unavailable due to maintenance.",Orange Line,Subway
+1047315,36,DELAY,TRAFFIC,5,Route 36 is experiencing delays of about 20 minutes due to traffic.,Millennium Park or VA Hospital - Forest Hills Station,Bus
+1047376,88,DELAY,TRAFFIC,5,Route 88 is experiencing delays of about 20 minutes due to traffic.,Clarendon Hill - Lechmere Station,Bus
+1047375,87,DELAY,TRAFFIC,5,Route 87 is experiencing delays of about 20 minutes due to traffic.,Arlington Center - Lechmere Station,Bus
+1024904,741,ESCALATOR_CLOSURE,MAINTENANCE,3,"Courthouse Escalator 418 (Lobby to Seaport Boulevard, Fan Pier Boulevard) is unavailable due to maintenance.",Logan Airport Terminals - South Station,Bus
+1024904,742,ESCALATOR_CLOSURE,MAINTENANCE,3,"Courthouse Escalator 418 (Lobby to Seaport Boulevard, Fan Pier Boulevard) is unavailable due to maintenance.",Design Center - South Station,Bus
+1024904,743,ESCALATOR_CLOSURE,MAINTENANCE,3,"Courthouse Escalator 418 (Lobby to Seaport Boulevard, Fan Pier Boulevard) is unavailable due to maintenance.",Chelsea Station - South Station,Bus
+1047359,40,DELAY,TRAFFIC,7,Route 40 is experiencing delays of about 30 minutes due to traffic.,Georgetowne - Forest Hills Station,Bus
+1047341,83,DELAY,TRAFFIC,5,Route 83 is experiencing delays of about 20 minutes due to traffic.,"Rindge Avenue - Central Square, Cambridge",Bus
+1045909,15,ESCALATOR_CLOSURE,MAINTENANCE,3,Ruggles Escalator 136 (Orange Line platform to upper lobby) is unavailable due to maintenance.,Fields Corner Station - Ruggles Station,Bus
+1045909,19,ESCALATOR_CLOSURE,MAINTENANCE,3,Ruggles Escalator 136 (Orange Line platform to upper lobby) is unavailable due to maintenance.,Fields Corner Station - Kenmore or Ruggles Station,Bus
+1045909,22,ESCALATOR_CLOSURE,MAINTENANCE,3,Ruggles Escalator 136 (Orange Line platform to upper lobby) is unavailable due to maintenance.,Ashmont Station - Ruggles Station via Talbot Avenue,Bus
+1045909,23,ESCALATOR_CLOSURE,MAINTENANCE,3,Ruggles Escalator 136 (Orange Line platform to upper lobby) is unavailable due to maintenance.,Ashmont Station - Ruggles Station via Washington Street,Bus
+1045909,28,ESCALATOR_CLOSURE,MAINTENANCE,3,Ruggles Escalator 136 (Orange Line platform to upper lobby) is unavailable due to maintenance.,Mattapan Station - Ruggles Station,Bus
+1045909,43,ESCALATOR_CLOSURE,MAINTENANCE,3,Ruggles Escalator 136 (Orange Line platform to upper lobby) is unavailable due to maintenance.,Ruggles Station - Park Street Station,Bus
+1045909,44,ESCALATOR_CLOSURE,MAINTENANCE,3,Ruggles Escalator 136 (Orange Line platform to upper lobby) is unavailable due to maintenance.,Jackson Square Station - Ruggles Station,Bus
+1045909,45,ESCALATOR_CLOSURE,MAINTENANCE,3,Ruggles Escalator 136 (Orange Line platform to upper lobby) is unavailable due to maintenance.,Franklin Park - Ruggles Station,Bus
+1045909,47,ESCALATOR_CLOSURE,MAINTENANCE,3,Ruggles Escalator 136 (Orange Line platform to upper lobby) is unavailable due to maintenance.,"Central Square, Cambridge - Broadway Station",Bus
+1045909,65,ESCALATOR_CLOSURE,MAINTENANCE,3,Ruggles Escalator 136 (Orange Line platform to upper lobby) is unavailable due to maintenance.,Brighton Center - Ruggles Station,Bus
+1045909,708,ESCALATOR_CLOSURE,MAINTENANCE,3,Ruggles Escalator 136 (Orange Line platform to upper lobby) is unavailable due to maintenance.,Beth Israel Deaconess Hospital - Andrew Station,Bus
+1045909,8,ESCALATOR_CLOSURE,MAINTENANCE,3,Ruggles Escalator 136 (Orange Line platform to upper lobby) is unavailable due to maintenance.,Harbor Point - Kenmore Station,Bus
+1045909,85,ESCALATOR_CLOSURE,MAINTENANCE,3,Ruggles Escalator 136 (Orange Line platform to upper lobby) is unavailable due to maintenance.,Assembly Row - Ruggles Station,Bus
+1045909,9,ESCALATOR_CLOSURE,MAINTENANCE,3,Ruggles Escalator 136 (Orange Line platform to upper lobby) is unavailable due to maintenance.,City Point - Copley Square,Bus
+1045909,CR-Franklin,ESCALATOR_CLOSURE,MAINTENANCE,3,Ruggles Escalator 136 (Orange Line platform to upper lobby) is unavailable due to maintenance.,Franklin/Foxboro Line,Commuter Rail
+1045909,CR-Needham,ESCALATOR_CLOSURE,MAINTENANCE,3,Ruggles Escalator 136 (Orange Line platform to upper lobby) is unavailable due to maintenance.,Needham Line,Commuter Rail
+1045909,CR-Providence,ESCALATOR_CLOSURE,MAINTENANCE,3,Ruggles Escalator 136 (Orange Line platform to upper lobby) is unavailable due to maintenance.,Providence/Stoughton Line,Commuter Rail
+1045909,Orange,ESCALATOR_CLOSURE,MAINTENANCE,3,Ruggles Escalator 136 (Orange Line platform to upper lobby) is unavailable due to maintenance.,Orange Line,Subway
+1047351,32,DELAY,TRAFFIC,5,Route 32 is experiencing delays of about 20 minutes due to traffic.,Wolcott Square - Forest Hills Station,Bus
+1047420,101,DELAY,TRAFFIC,5,Route 101 is experiencing delays of about 20 minutes due to traffic.,Malden Center Station - Sullivan Square Station via Winter Hill,Bus
+1001861,Orange,STATION_ISSUE,CONSTRUCTION,1,The stairway connecting the Jackson Square lobby and the south end of the platform is closed until winter 2026. Use the stairway at the north end of the platform. This closure is for the construction of a new stairway and a second elevator.,Orange Line,Subway
+1047356,112,DETOUR,CONSTRUCTION,7,Route 112 is detoured due to construction. The closest stops with inbound service are Chelsea St opp Curtis St and Wood Island. The closest stops with outbound service are Wood Island and Chelsea St @ Curtis St.,Wellington Station - Wood Island Station,Bus
+1047417,99,DELAY,TRAFFIC,6,Route 99 is experiencing delays of about 25 minutes due to traffic.,Woodland Road - Wellington Station,Bus
+1040924,Red,ESCALATOR_CLOSURE,MAINTENANCE,3,Charles/MGH Escalator 426 (Lobby to Alewife platform) is unavailable due to maintenance.,Red Line,Subway
+1047333,240,DELAY,TRAFFIC,5,Route 240 is experiencing delays of about 20 minutes due to traffic.,Avon Square - Ashmont Station,Bus
+1046071,424,STOP_CLOSURE,UNKNOWN_CAUSE,5,"American Legion Hwy @ Revere St (outbound) is temporarily closed. For service on Rt 424 and 455, use Revere St @ Stowers St. For service on 426 and 450, use Revere St @ Hutchinson St.",Eastern Avenue & Essex Street - Wonderland Station,Bus
+1046071,426,STOP_CLOSURE,UNKNOWN_CAUSE,5,"American Legion Hwy @ Revere St (outbound) is temporarily closed. For service on Rt 424 and 455, use Revere St @ Stowers St. For service on 426 and 450, use Revere St @ Hutchinson St.","Central Square, Lynn - Haymarket or Wonderland Station",Bus
+1046071,450,STOP_CLOSURE,UNKNOWN_CAUSE,5,"American Legion Hwy @ Revere St (outbound) is temporarily closed. For service on Rt 424 and 455, use Revere St @ Stowers St. For service on 426 and 450, use Revere St @ Hutchinson St.",Salem Depot - Wonderland or Haymarket Station,Bus
+1046071,455,STOP_CLOSURE,UNKNOWN_CAUSE,5,"American Legion Hwy @ Revere St (outbound) is temporarily closed. For service on Rt 424 and 455, use Revere St @ Stowers St. For service on 426 and 450, use Revere St @ Hutchinson St.",Salem Depot - Wonderland Station,Bus
+1038229,39,ELEVATOR_CLOSURE,UNKNOWN_CAUSE,3,Back Bay Elevator 854 (Commuter Rail track 2 to lobby) is unavailable.,Forest Hills Station - Back Bay Station,Bus
+1038229,CR-Franklin,ELEVATOR_CLOSURE,UNKNOWN_CAUSE,3,Back Bay Elevator 854 (Commuter Rail track 2 to lobby) is unavailable.,Franklin/Foxboro Line,Commuter Rail
+1038229,CR-Needham,ELEVATOR_CLOSURE,UNKNOWN_CAUSE,3,Back Bay Elevator 854 (Commuter Rail track 2 to lobby) is unavailable.,Needham Line,Commuter Rail
+1038229,CR-Providence,ELEVATOR_CLOSURE,UNKNOWN_CAUSE,3,Back Bay Elevator 854 (Commuter Rail track 2 to lobby) is unavailable.,Providence/Stoughton Line,Commuter Rail
+1038229,CR-Worcester,ELEVATOR_CLOSURE,UNKNOWN_CAUSE,3,Back Bay Elevator 854 (Commuter Rail track 2 to lobby) is unavailable.,Framingham/Worcester Line,Commuter Rail
+1038229,Orange,ELEVATOR_CLOSURE,UNKNOWN_CAUSE,3,Back Bay Elevator 854 (Commuter Rail track 2 to lobby) is unavailable.,Orange Line,Subway
+1035010,Mattapan,ACCESS_ISSUE,UNKNOWN_CAUSE,3,The Central Avenue mini-high platform (Ashmont side) is out of service. ,Mattapan Line,Light Rail
+1047321,37,DELAY,TRAFFIC,5,Route 37 is experiencing delays of about 20 minutes due to traffic.,Baker Street & Vermont Street - Forest Hills Station,Bus
+1045968,59,STOP_CLOSURE,CONSTRUCTION,5,156 Oak St (outbound) is temporarily closed due to construction. The nearest available stops with service are Needham St opp Charlemont St and 106 Oak St.,Needham Junction - Watertown Square,Bus
+1001864,426,PARKING_ISSUE,UNKNOWN_CAUSE,3,"Lynn Parking Garage is partially closed, but has sufficient parking capacity to accommodate daily demand.","Central Square, Lynn - Haymarket or Wonderland Station",Bus
+1001864,429,PARKING_ISSUE,UNKNOWN_CAUSE,3,"Lynn Parking Garage is partially closed, but has sufficient parking capacity to accommodate daily demand.","Northgate Shopping Center - Central Square, Lynn",Bus
+1001864,435,PARKING_ISSUE,UNKNOWN_CAUSE,3,"Lynn Parking Garage is partially closed, but has sufficient parking capacity to accommodate daily demand.","Liberty Tree Mall - Central Square, Lynn via Peabody Square",Bus
+1001864,436,PARKING_ISSUE,UNKNOWN_CAUSE,3,"Lynn Parking Garage is partially closed, but has sufficient parking capacity to accommodate daily demand.","Liberty Tree Mall - Central Square, Lynn via Goodwin Circle",Bus
+1001864,439,PARKING_ISSUE,UNKNOWN_CAUSE,3,"Lynn Parking Garage is partially closed, but has sufficient parking capacity to accommodate daily demand.",Nahant - Wonderland Station,Bus
+1001864,441,PARKING_ISSUE,UNKNOWN_CAUSE,3,"Lynn Parking Garage is partially closed, but has sufficient parking capacity to accommodate daily demand.",Marblehead - Wonderland Station via Paradise Road,Bus
+1001864,442,PARKING_ISSUE,UNKNOWN_CAUSE,3,"Lynn Parking Garage is partially closed, but has sufficient parking capacity to accommodate daily demand.",Marblehead - Wonderland Station via Humphrey Street,Bus
+1001864,455,PARKING_ISSUE,UNKNOWN_CAUSE,3,"Lynn Parking Garage is partially closed, but has sufficient parking capacity to accommodate daily demand.",Salem Depot - Wonderland Station,Bus
+1001864,456,PARKING_ISSUE,UNKNOWN_CAUSE,3,"Lynn Parking Garage is partially closed, but has sufficient parking capacity to accommodate daily demand.","Salem Depot - Central Square, Lynn",Bus
+1047398,11,DELAY,TRAFFIC,6,Route 11 is experiencing delays of about 25 minutes due to traffic.,City Point - Chauncy Street & Summer Street,Bus
+1047244,CR-Fitchburg,TRACK_CHANGE,UNKNOWN_CAUSE,7,Normal boarding has resumed for all Fitchburg Line trains at Ayer today.,Fitchburg Line,Commuter Rail
+1047428,Green-E,ELEVATOR_CLOSURE,MAINTENANCE,3,Prudential Elevator 921 (Lechmere platform to lobby) is unavailable due to maintenance.,Green Line E,Light Rail
+1040512,CR-Worcester,ELEVATOR_CLOSURE,UNKNOWN_CAUSE,3,Worcester Elevator 781 (Platform to pedestrian bridge) is unavailable. Please use the elevator in the main facility at 2 Washington Sq.,Framingham/Worcester Line,Commuter Rail
+1045490,87,STOP_CLOSURE,CONSTRUCTION,5,Broadway @ Dickson St (outbound) is temporarily closed due to construction. Passengers can board at Broadway @ Belknap St or Broadway @ Curtis St. ,Arlington Center - Lechmere Station,Bus
+1045490,88,STOP_CLOSURE,CONSTRUCTION,5,Broadway @ Dickson St (outbound) is temporarily closed due to construction. Passengers can board at Broadway @ Belknap St or Broadway @ Curtis St. ,Clarendon Hill - Lechmere Station,Bus
+1045490,89,STOP_CLOSURE,CONSTRUCTION,5,Broadway @ Dickson St (outbound) is temporarily closed due to construction. Passengers can board at Broadway @ Belknap St or Broadway @ Curtis St. ,Clarendon Hill or Davis Station - Sullivan Square Station,Bus
+1041722,Boat-F6,EXTRA_SERVICE,UNKNOWN_CAUSE,3,"Lynn Ferry, Quincy Ferry, and Winthrop Ferry weekday service has been extended through Thu, Dec 31. Ferry schedules are available here: MBTA.com/Ferry",Winthrop Ferry,Ferry
+1041722,Boat-F7,EXTRA_SERVICE,UNKNOWN_CAUSE,3,"Lynn Ferry, Quincy Ferry, and Winthrop Ferry weekday service has been extended through Thu, Dec 31. Ferry schedules are available here: MBTA.com/Ferry",Quincy Ferry,Ferry
+1041722,Boat-Lynn,EXTRA_SERVICE,UNKNOWN_CAUSE,3,"Lynn Ferry, Quincy Ferry, and Winthrop Ferry weekday service has been extended through Thu, Dec 31. Ferry schedules are available here: MBTA.com/Ferry",Lynn Ferry,Ferry
+1001818,10,ESCALATOR_CLOSURE,MAINTENANCE,1,"Andrew Escalator 123 (Ashmont/Braintree platform to busway) is unavailable until further notice, pending replacement.",City Point - Arlington Station,Bus
+1001818,16,ESCALATOR_CLOSURE,MAINTENANCE,1,"Andrew Escalator 123 (Ashmont/Braintree platform to busway) is unavailable until further notice, pending replacement.",Forest Hills Station - Andrew Station or Harbor Point,Bus
+1001818,17,ESCALATOR_CLOSURE,MAINTENANCE,1,"Andrew Escalator 123 (Ashmont/Braintree platform to busway) is unavailable until further notice, pending replacement.",Fields Corner Station - Andrew Station,Bus
+1001818,171,ESCALATOR_CLOSURE,MAINTENANCE,1,"Andrew Escalator 123 (Ashmont/Braintree platform to busway) is unavailable until further notice, pending replacement.",Logan Airport Terminals - Nubian Station,Bus
+1001818,18,ESCALATOR_CLOSURE,MAINTENANCE,1,"Andrew Escalator 123 (Ashmont/Braintree platform to busway) is unavailable until further notice, pending replacement.",Ashmont Station - Andrew Station,Bus
+1001818,708,ESCALATOR_CLOSURE,MAINTENANCE,1,"Andrew Escalator 123 (Ashmont/Braintree platform to busway) is unavailable until further notice, pending replacement.",Beth Israel Deaconess Hospital - Andrew Station,Bus
+1001818,9,ESCALATOR_CLOSURE,MAINTENANCE,1,"Andrew Escalator 123 (Ashmont/Braintree platform to busway) is unavailable until further notice, pending replacement.",City Point - Copley Square,Bus
+1001818,Red,ESCALATOR_CLOSURE,MAINTENANCE,1,"Andrew Escalator 123 (Ashmont/Braintree platform to busway) is unavailable until further notice, pending replacement.",Red Line,Subway
+1041723,Boat-EastBoston,EXTRA_SERVICE,UNKNOWN_CAUSE,3,"East Boston weekday and weekend service has been extended through Thu, Dec 31. Ferry schedules are available here: MBTA.com/Ferry",East Boston Ferry,Ferry
+1047310,19,ELEVATOR_CLOSURE,MAINTENANCE,3,Kenmore Elevator 948 (Lobby to Commonwealth Avenue) is unavailable due to maintenance.,Fields Corner Station - Kenmore or Ruggles Station,Bus
+1047310,57,ELEVATOR_CLOSURE,MAINTENANCE,3,Kenmore Elevator 948 (Lobby to Commonwealth Avenue) is unavailable due to maintenance.,Watertown Yard - Kenmore Station,Bus
+1047310,60,ELEVATOR_CLOSURE,MAINTENANCE,3,Kenmore Elevator 948 (Lobby to Commonwealth Avenue) is unavailable due to maintenance.,Chestnut Hill - Kenmore Station,Bus
+1047310,8,ELEVATOR_CLOSURE,MAINTENANCE,3,Kenmore Elevator 948 (Lobby to Commonwealth Avenue) is unavailable due to maintenance.,Harbor Point - Kenmore Station,Bus
+1047310,9,ELEVATOR_CLOSURE,MAINTENANCE,3,Kenmore Elevator 948 (Lobby to Commonwealth Avenue) is unavailable due to maintenance.,City Point - Copley Square,Bus
+1047310,Green-B,ELEVATOR_CLOSURE,MAINTENANCE,3,Kenmore Elevator 948 (Lobby to Commonwealth Avenue) is unavailable due to maintenance.,Green Line B,Light Rail
+1047310,Green-C,ELEVATOR_CLOSURE,MAINTENANCE,3,Kenmore Elevator 948 (Lobby to Commonwealth Avenue) is unavailable due to maintenance.,Green Line C,Light Rail
+1047310,Green-D,ELEVATOR_CLOSURE,MAINTENANCE,3,Kenmore Elevator 948 (Lobby to Commonwealth Avenue) is unavailable due to maintenance.,Green Line D,Light Rail
+1047255,217,DETOUR,UNKNOWN_CAUSE,7,Route 217 is detoured. The closest stops with outbound service are Wilson Ave opp Mascoma St and Harvard St @ Elliot Ave. The closest stops with inbound service are Harvard St @ Holbrook Rd and Wilson Ave @ Mascoma St.,Quincy Center Station - Ashmont Station,Bus
+1047405,137,DELAY,TRAFFIC,6,Route 137 is experiencing delays of about 25 minutes due to traffic.,Reading Depot - Malden Center Station,Bus
+1027271,505,STOP_MOVE,CONSTRUCTION,1,"The Route 505 stops at Washington St @ Prospect St, inbound and outbound, have moved for construction. Riders can use the bus stop at Washington St @ Auburn St during this work.",Waltham Center - Federal Street & Franklin Street,Bus
+1047358,77,DELAY,TRAFFIC,5,Route 77 is experiencing delays of about 20 minutes due to traffic.,Arlington Heights - Harvard Station,Bus
+1000003,CR-Fitchburg,STATION_ISSUE,UNKNOWN_CAUSE,1,Littleton/Route 495 passengers can expect occasional traffic and detours when accessing the station due to the Foster Street reconstruction work.,Fitchburg Line,Commuter Rail
+1047427,76,DELAY,TRAFFIC,5,Route 76 is experiencing delays of about 20 minutes due to traffic.,Lincoln Lab - Alewife Station,Bus
+1047309,31,DELAY,TRAFFIC,7,Route 31 is experiencing delays of about 30 minutes due to traffic.,Mattapan Station - Forest Hills Station via Morton Street,Bus
+1047388,19,DELAY,TRAFFIC,5,Route 19 is experiencing delays of about 20 minutes due to traffic.,Fields Corner Station - Kenmore or Ruggles Station,Bus
+1001820,Blue,ESCALATOR_CLOSURE,UNKNOWN_CAUSE,1,State Escalator 6 (Oak Grove platform to Old State House lobby) is unavailable.,Blue Line,Subway
+1001820,Orange,ESCALATOR_CLOSURE,UNKNOWN_CAUSE,1,State Escalator 6 (Oak Grove platform to Old State House lobby) is unavailable.,Orange Line,Subway
+1047345,505,DELAY,TRAFFIC,5,Route 505 is experiencing delays of about 20 minutes due to traffic.,Waltham Center - Federal Street & Franklin Street,Bus
+1036024,CR-Worcester,ELEVATOR_CLOSURE,UNKNOWN_CAUSE,3,Natick Center Elevator 751 (Track 2 to street) is unavailable.,Framingham/Worcester Line,Commuter Rail
+1024466,80,STOP_MOVE,CONSTRUCTION,1,"The Route 80, 87, & 88 outbound stop at McGrath Hwy @ Poplar St has temporarily relocated to the front of the Mercedes Benz dealership due to construction.",Arlington Center - Lechmere Station,Bus
+1024466,87,STOP_MOVE,CONSTRUCTION,1,"The Route 80, 87, & 88 outbound stop at McGrath Hwy @ Poplar St has temporarily relocated to the front of the Mercedes Benz dealership due to construction.",Arlington Center - Lechmere Station,Bus
+1024466,88,STOP_MOVE,CONSTRUCTION,1,"The Route 80, 87, & 88 outbound stop at McGrath Hwy @ Poplar St has temporarily relocated to the front of the Mercedes Benz dealership due to construction.",Clarendon Hill - Lechmere Station,Bus
+1045599,Green-D,ESCALATOR_CLOSURE,MAINTENANCE,3,"Haymarket Escalator 313 (Green Line lobby to busway, Sudbury Street, New Chardon Street) is unavailable due to maintenance.",Green Line D,Light Rail
+1045599,Green-E,ESCALATOR_CLOSURE,MAINTENANCE,3,"Haymarket Escalator 313 (Green Line lobby to busway, Sudbury Street, New Chardon Street) is unavailable due to maintenance.",Green Line E,Light Rail
+1045599,Orange,ESCALATOR_CLOSURE,MAINTENANCE,3,"Haymarket Escalator 313 (Green Line lobby to busway, Sudbury Street, New Chardon Street) is unavailable due to maintenance.",Orange Line,Subway
+1047380,435,DELAY,TRAFFIC,5,Route 435 is experiencing delays of about 20 minutes due to traffic.,"Liberty Tree Mall - Central Square, Lynn via Peabody Square",Bus
+1047416,CR-Franklin,DELAY,UNKNOWN_CAUSE,4,Foxboro Line Train 7136 (5:50 PM from Foxboro) is operating 5-15 minutes behind schedule between Endicott and South Station.,Franklin/Foxboro Line,Commuter Rail
+1044547,Green-C,STATION_CLOSURE,CONSTRUCTION,7,"Green Line C Branch: Inbound trains are not stopping at Hawes St through December 10, while accessibility upgrades are being done. The closest stops with service are Saint Mary’s St and Kent St, which are 0.2-0.3 miles away (about a 4 - 6 minute walk).",Green Line C,Light Rail
+1046631,714,NOTICE,CONSTRUCTION,1,"Route 714 Notice: Due to sewer construction from Monday, November 23 to Monday, January 18 on Nantasket Ave between Fitzpatrick Way and Spring St, Route 714 buses may experience delays. Please allow for extra travel time.",Hull Ferry - Hingham Depot,Bus
+1047314,34,DELAY,TRAFFIC,5,Route 34 is experiencing delays of about 20 minutes due to traffic.,Dedham Mall - Forest Hills Station,Bus
+1047281,716,DELAY,TRAFFIC,5,Route 716 is experiencing delays of about 20 minutes due to traffic.,Canton Village Shoppes - Mattapan Station,Bus
+1037418,Red,NOTICE,UNKNOWN_CAUSE,1,Braintree Station notice: Premium parking is available at this location. You can buy premium passes and permits using SpotHero.,Red Line,Subway
+1047408,97,DELAY,TRAFFIC,6,Route 97 is experiencing delays of about 25 minutes due to traffic.,Malden Center Station - Wellington Station,Bus
+1032947,Red,STATION_ISSUE,UNKNOWN_CAUSE,1,"Due to construction, the staircase at the north end of the Savin Hill platform is out of service. Riders should follow station personnel and signage to the alternate staircase located in the center of the platform.",Red Line,Subway
+1001867,77,STOP_MOVE,UNKNOWN_CAUSE,1,"The Route 77 & 96 outbound stop at Massachusetts Ave @ Wendell St moves about 100 feet south, from 7 AM - 4 PM weekdays, due to construction.",Arlington Heights - Harvard Station,Bus
+1001867,96,STOP_MOVE,UNKNOWN_CAUSE,1,"The Route 77 & 96 outbound stop at Massachusetts Ave @ Wendell St moves about 100 feet south, from 7 AM - 4 PM weekdays, due to construction.",Medford Square - Harvard Station,Bus
+1001875,742,DETOUR,UNKNOWN_CAUSE,7,"SL2 is detoured weekdays from 6 PM until end of service, skipping Northern Ave @ Tide St. Closest outbound stops are Northern Ave @ Harbor St and 23 Drydock Ave. Closest inbound stops are Drydock Ave @ Design Center Place and Northern Ave opp Harbor St.",Design Center - South Station,Bus
+1047347,34E,DELAY,TRAFFIC,5,Route 34E is experiencing delays of about 20 minutes due to traffic.,Walpole Center - Forest Hills Station,Bus
+1037421,CR-Providence,NOTICE,UNKNOWN_CAUSE,1,Route 128 Station notice: Premium parking is available at this location. You can buy premium passes and permits using SpotHero.,Providence/Stoughton Line,Commuter Rail
+1001816,741,ESCALATOR_CLOSURE,MAINTENANCE,1,Courthouse Escalator 417 (Airport/Design Center platform to south lobby) is unavailable due to ongoing construction at the station.,Logan Airport Terminals - South Station,Bus
+1001816,742,ESCALATOR_CLOSURE,MAINTENANCE,1,Courthouse Escalator 417 (Airport/Design Center platform to south lobby) is unavailable due to ongoing construction at the station.,Design Center - South Station,Bus
+1001816,743,ESCALATOR_CLOSURE,MAINTENANCE,1,Courthouse Escalator 417 (Airport/Design Center platform to south lobby) is unavailable due to ongoing construction at the station.,Chelsea Station - South Station,Bus
+1047350,14,DELAY,TRAFFIC,5,Route 14 is experiencing delays of about 20 minutes due to traffic.,Roslindale Square - Heath Street,Bus
+1046371,87,ESCALATOR_CLOSURE,MAINTENANCE,3,Davis Escalator 337 (College Avenue street to landing) is unavailable due to maintenance.,Arlington Center - Lechmere Station,Bus
+1046371,88,ESCALATOR_CLOSURE,MAINTENANCE,3,Davis Escalator 337 (College Avenue street to landing) is unavailable due to maintenance.,Clarendon Hill - Lechmere Station,Bus
+1046371,89,ESCALATOR_CLOSURE,MAINTENANCE,3,Davis Escalator 337 (College Avenue street to landing) is unavailable due to maintenance.,Clarendon Hill or Davis Station - Sullivan Square Station,Bus
+1046371,90,ESCALATOR_CLOSURE,MAINTENANCE,3,Davis Escalator 337 (College Avenue street to landing) is unavailable due to maintenance.,Davis Station - Assembly Row,Bus
+1046371,94,ESCALATOR_CLOSURE,MAINTENANCE,3,Davis Escalator 337 (College Avenue street to landing) is unavailable due to maintenance.,Medford Square - Davis Station,Bus
+1046371,96,ESCALATOR_CLOSURE,MAINTENANCE,3,Davis Escalator 337 (College Avenue street to landing) is unavailable due to maintenance.,Medford Square - Harvard Station,Bus
+1046371,Red,ESCALATOR_CLOSURE,MAINTENANCE,3,Davis Escalator 337 (College Avenue street to landing) is unavailable due to maintenance.,Red Line,Subway
+1001821,101,ESCALATOR_CLOSURE,MAINTENANCE,1,Malden Center Escalator 312 (Street level to Commuter Rail platform) unavailable due to maintenance.,Malden Center Station - Sullivan Square Station via Winter Hill,Bus
+1001821,104,ESCALATOR_CLOSURE,MAINTENANCE,1,Malden Center Escalator 312 (Street level to Commuter Rail platform) unavailable due to maintenance.,Malden Center Station - Airport Station,Bus
+1001821,105,ESCALATOR_CLOSURE,MAINTENANCE,1,Malden Center Escalator 312 (Street level to Commuter Rail platform) unavailable due to maintenance.,Malden Center Station - Sullivan Square Station via Newland Street Housing,Bus
+1001821,106,ESCALATOR_CLOSURE,MAINTENANCE,1,Malden Center Escalator 312 (Street level to Commuter Rail platform) unavailable due to maintenance.,Lebanon Loop - Wellington Station,Bus
+1001821,108,ESCALATOR_CLOSURE,MAINTENANCE,1,Malden Center Escalator 312 (Street level to Commuter Rail platform) unavailable due to maintenance.,Linden Square - Wellington Station,Bus
+1001821,131,ESCALATOR_CLOSURE,MAINTENANCE,1,Malden Center Escalator 312 (Street level to Commuter Rail platform) unavailable due to maintenance.,Melrose Highlands - Malden Center Station,Bus
+1001821,132,ESCALATOR_CLOSURE,MAINTENANCE,1,Malden Center Escalator 312 (Street level to Commuter Rail platform) unavailable due to maintenance.,Redstone Shopping Center - Malden Center Station,Bus
+1001821,137,ESCALATOR_CLOSURE,MAINTENANCE,1,Malden Center Escalator 312 (Street level to Commuter Rail platform) unavailable due to maintenance.,Reading Depot - Malden Center Station,Bus
+1001821,411,ESCALATOR_CLOSURE,MAINTENANCE,1,Malden Center Escalator 312 (Street level to Commuter Rail platform) unavailable due to maintenance.,Kennedy Drive or Jack Satter House - Malden Center Station,Bus
+1001821,430,ESCALATOR_CLOSURE,MAINTENANCE,1,Malden Center Escalator 312 (Street level to Commuter Rail platform) unavailable due to maintenance.,Saugus Center - Malden Center Station,Bus
+1001821,97,ESCALATOR_CLOSURE,MAINTENANCE,1,Malden Center Escalator 312 (Street level to Commuter Rail platform) unavailable due to maintenance.,Malden Center Station - Wellington Station,Bus
+1001821,99,ESCALATOR_CLOSURE,MAINTENANCE,1,Malden Center Escalator 312 (Street level to Commuter Rail platform) unavailable due to maintenance.,Woodland Road - Wellington Station,Bus
+1001821,CR-Haverhill,ESCALATOR_CLOSURE,MAINTENANCE,1,Malden Center Escalator 312 (Street level to Commuter Rail platform) unavailable due to maintenance.,Haverhill Line,Commuter Rail
+1001821,Orange,ESCALATOR_CLOSURE,MAINTENANCE,1,Malden Center Escalator 312 (Street level to Commuter Rail platform) unavailable due to maintenance.,Orange Line,Subway
+1047242,441442,DETOUR,CONSTRUCTION,1,Rtes 441 & 442 detoured - omitting Old Town due to construction. Connect at Pleasant St @ Washington St.,,
+1047242,442,DETOUR,CONSTRUCTION,1,Rtes 441 & 442 detoured - omitting Old Town due to construction. Connect at Pleasant St @ Washington St.,Marblehead - Wonderland Station via Humphrey Street,Bus
+1030394,741,ESCALATOR_CLOSURE,MAINTENANCE,3,South Station Escalator 388 (Lobby to CSA area) is unavailable due to maintenance.,Logan Airport Terminals - South Station,Bus
+1030394,742,ESCALATOR_CLOSURE,MAINTENANCE,3,South Station Escalator 388 (Lobby to CSA area) is unavailable due to maintenance.,Design Center - South Station,Bus
+1030394,743,ESCALATOR_CLOSURE,MAINTENANCE,3,South Station Escalator 388 (Lobby to CSA area) is unavailable due to maintenance.,Chelsea Station - South Station,Bus
+1030394,CR-Fairmount,ESCALATOR_CLOSURE,MAINTENANCE,3,South Station Escalator 388 (Lobby to CSA area) is unavailable due to maintenance.,Fairmount Line,Commuter Rail
+1030394,CR-Franklin,ESCALATOR_CLOSURE,MAINTENANCE,3,South Station Escalator 388 (Lobby to CSA area) is unavailable due to maintenance.,Franklin/Foxboro Line,Commuter Rail
+1030394,CR-Greenbush,ESCALATOR_CLOSURE,MAINTENANCE,3,South Station Escalator 388 (Lobby to CSA area) is unavailable due to maintenance.,Greenbush Line,Commuter Rail
+1030394,CR-Kingston,ESCALATOR_CLOSURE,MAINTENANCE,3,South Station Escalator 388 (Lobby to CSA area) is unavailable due to maintenance.,Kingston Line,Commuter Rail
+1030394,CR-Needham,ESCALATOR_CLOSURE,MAINTENANCE,3,South Station Escalator 388 (Lobby to CSA area) is unavailable due to maintenance.,Needham Line,Commuter Rail
+1030394,CR-NewBedford,ESCALATOR_CLOSURE,MAINTENANCE,3,South Station Escalator 388 (Lobby to CSA area) is unavailable due to maintenance.,Fall River/New Bedford Line,Commuter Rail
+1030394,CR-Providence,ESCALATOR_CLOSURE,MAINTENANCE,3,South Station Escalator 388 (Lobby to CSA area) is unavailable due to maintenance.,Providence/Stoughton Line,Commuter Rail
+1030394,CR-Worcester,ESCALATOR_CLOSURE,MAINTENANCE,3,South Station Escalator 388 (Lobby to CSA area) is unavailable due to maintenance.,Framingham/Worcester Line,Commuter Rail
+1030394,Red,ESCALATOR_CLOSURE,MAINTENANCE,3,South Station Escalator 388 (Lobby to CSA area) is unavailable due to maintenance.,Red Line,Subway
+1046407,66,STOP_MOVE,UNKNOWN_CAUSE,1,"N Harvard St @ S Campus Dr (inbound) will move permanently beginning Fri, Nov 20. Riders may board/alight at the new stop located near the corner of Ivy Ln (about 450 ft closer to Western Ave).",Harvard Square - Nubian Station,Bus
+1046407,86,STOP_MOVE,UNKNOWN_CAUSE,1,"N Harvard St @ S Campus Dr (inbound) will move permanently beginning Fri, Nov 20. Riders may board/alight at the new stop located near the corner of Ivy Ln (about 450 ft closer to Western Ave).",Harvard Square - Reservoir Station,Bus
+1047338,73,DELAY,TRAFFIC,5,Route 73 is experiencing delays of about 20 minutes due to traffic.,Waverley Square - Harvard Station,Bus
+1047407,236,DELAY,TRAFFIC,5,Route 236 is experiencing delays of about 20 minutes due to traffic.,South Shore Plaza - Quincy Center Station,Bus
+1047423,CR-Lowell,DELAY,UNKNOWN_CAUSE,5,Lowell Line Train 3033 (6:20 PM from North Station) is operating 10-20 minutes behind schedule between West Medford and Lowell.,Lowell Line,Commuter Rail
+1001817,Blue,ESCALATOR_CLOSURE,MAINTENANCE,1,"Bowdoin Escalator 125 (Lobby to street) is unavailable until further notice, pending replacement.",Blue Line,Subway
+1047409,CR-NewBedford,DELAY,UNKNOWN_CAUSE,3,Fall River Line Train 8126 (4:41 PM from Fall River Depot) is operating 5-15 minutes behind schedule between Montello and South Station.,Fall River/New Bedford Line,Commuter Rail
+1047083,Green-C,NOTICE,UNKNOWN_CAUSE,1,"Green Line C Branch: The outbound Hawes St platform is now fully accessible, but there is no accessible connection to the Beacon St eastbound sidewalk. This path is expected to be available after December 10.",Green Line C,Light Rail
+1047397,CR-Providence,DELAY,UNKNOWN_CAUSE,4,Providence Line Train 6027 (4:52 PM from South Station) is operating 5-15 minutes behind schedule between Mansfield and Wickford Junction.,Providence/Stoughton Line,Commuter Rail
+1047342,450,DELAY,TRAFFIC,5,Route 450 is experiencing delays of about 20 minutes due to traffic.,Salem Depot - Wonderland or Haymarket Station,Bus
+1047414,451,DELAY,TRAFFIC,7,Route 451 is experiencing delays of about 30 minutes due to traffic.,North Beverly Station - Salem Depot,Bus
+1029070,CR-Worcester,PARKING_ISSUE,UNKNOWN_CAUSE,1,Reminder: The traffic gate off of High St. to the Southern Ashland Parking Lot is not for public access. Please access the lot via Memorial Dr. off W. Union St.,Framingham/Worcester Line,Commuter Rail
+1039823,114,ESCALATOR_CLOSURE,MAINTENANCE,3,Maverick Escalator 429 (Lewis Mall to unpaid lobby) is unavailable due to maintenance.,Market Basket - Maverick Station,Bus
+1039823,116,ESCALATOR_CLOSURE,MAINTENANCE,3,Maverick Escalator 429 (Lewis Mall to unpaid lobby) is unavailable due to maintenance.,Wonderland Station - Maverick Station,Bus
+1039823,120,ESCALATOR_CLOSURE,MAINTENANCE,3,Maverick Escalator 429 (Lewis Mall to unpaid lobby) is unavailable due to maintenance.,Orient Heights Station - Jeffries Point,Bus
+1039823,121,ESCALATOR_CLOSURE,MAINTENANCE,3,Maverick Escalator 429 (Lewis Mall to unpaid lobby) is unavailable due to maintenance.,Wood Island Station - Maverick Station,Bus
+1039823,Blue,ESCALATOR_CLOSURE,MAINTENANCE,3,Maverick Escalator 429 (Lewis Mall to unpaid lobby) is unavailable due to maintenance.,Blue Line,Subway
+1033315,CR-Fairmount,NOTICE,UNKNOWN_CAUSE,1,Fare Validation Machines are being installed at all Fairmount Line stations. Passengers will need to validate their fare to scan through the gates at South Station.   ,Fairmount Line,Commuter Rail
+1037420,Green-D,NOTICE,UNKNOWN_CAUSE,1,Riverside Station notice: Premium parking is available at this location. You can buy premium passes and permits using SpotHero.,Green Line D,Light Rail
+1047335,CR-Worcester,TRACK_CHANGE,UNKNOWN_CAUSE,8,Please board all inbound Worcester Line trains on the outbound platform (Track 1) at West Natick through Wellesley Farms until 8:00 pm.,Framingham/Worcester Line,Commuter Rail
+1047323,215,DELAY,TRAFFIC,5,Route 215 is experiencing delays of about 20 minutes due to traffic.,Quincy Center Station - Ashmont Station via West Quincy,Bus
+1047413,CR-Needham,DELAY,UNKNOWN_CAUSE,4,Needham Line Train 6423 (5:55 PM from South Station) is operating 5-15 minutes behind schedule between Back Bay and Needham Heights.,Needham Line,Commuter Rail
+1009001,10,ESCALATOR_CLOSURE,UNKNOWN_CAUSE,3,Andrew Escalator 124 (Ashmont/Braintree platform to busway) is unavailable.,City Point - Arlington Station,Bus
+1009001,16,ESCALATOR_CLOSURE,UNKNOWN_CAUSE,3,Andrew Escalator 124 (Ashmont/Braintree platform to busway) is unavailable.,Forest Hills Station - Andrew Station or Harbor Point,Bus
+1009001,17,ESCALATOR_CLOSURE,UNKNOWN_CAUSE,3,Andrew Escalator 124 (Ashmont/Braintree platform to busway) is unavailable.,Fields Corner Station - Andrew Station,Bus
+1009001,171,ESCALATOR_CLOSURE,UNKNOWN_CAUSE,3,Andrew Escalator 124 (Ashmont/Braintree platform to busway) is unavailable.,Logan Airport Terminals - Nubian Station,Bus
+1009001,18,ESCALATOR_CLOSURE,UNKNOWN_CAUSE,3,Andrew Escalator 124 (Ashmont/Braintree platform to busway) is unavailable.,Ashmont Station - Andrew Station,Bus
+1009001,708,ESCALATOR_CLOSURE,UNKNOWN_CAUSE,3,Andrew Escalator 124 (Ashmont/Braintree platform to busway) is unavailable.,Beth Israel Deaconess Hospital - Andrew Station,Bus
+1009001,9,ESCALATOR_CLOSURE,UNKNOWN_CAUSE,3,Andrew Escalator 124 (Ashmont/Braintree platform to busway) is unavailable.,City Point - Copley Square,Bus
+1009001,Red,ESCALATOR_CLOSURE,UNKNOWN_CAUSE,3,Andrew Escalator 124 (Ashmont/Braintree platform to busway) is unavailable.,Red Line,Subway
+1047374,62,DELAY,TRAFFIC,5,Route 62 is experiencing delays of about 20 minutes due to traffic.,Bedford VA Hospital - Alewife Station,Bus
+1047348,226,DELAY,TRAFFIC,5,Route 226 is experiencing delays of about 20 minutes due to traffic.,Columbian Square - Braintree Station,Bus
+1031518,Orange,ELEVATOR_CLOSURE,MAINTENANCE,3,"Downtown Crossing Elevator 869 (Alewife platform to Summer Street Concourse) is unavailable due to maintenance through Tuesday, December 1.",Orange Line,Subway
+1031518,Red,ELEVATOR_CLOSURE,MAINTENANCE,3,"Downtown Crossing Elevator 869 (Alewife platform to Summer Street Concourse) is unavailable due to maintenance through Tuesday, December 1.",Red Line,Subway
+1047406,CR-Haverhill,DELAY,UNKNOWN_CAUSE,3,Haverhill Line Train 2022 (5:30 PM from Haverhill) is operating 5-15 minutes behind schedule between Lawrence and North Station.,Haverhill Line,Commuter Rail
+1034144,45,STOP_MOVE,CONSTRUCTION,1,"Blue Hill Ave @ Intervale St (inbound) has moved across Intervale St until 2028, due to construction.",Franklin Park - Ruggles Station,Bus
+1047328,112,DELAY,TRAFFIC,5,Route 112 is experiencing delays of about 20 minutes due to traffic.,Wellington Station - Wood Island Station,Bus
+1047334,CR-Worcester,TRACK_CHANGE,UNKNOWN_CAUSE,7,Please board all outbound Worcester/Framingham Line trains on the inbound platform (Track 2) at Wellesley Farms through Framingham until 8:00 pm.,Framingham/Worcester Line,Commuter Rail
+1001819,131,ESCALATOR_CLOSURE,UNKNOWN_CAUSE,1,Oak Grove Escalator 105 (Commuter Rail platform to unpaid lobby) is unavailable.,Melrose Highlands - Malden Center Station,Bus
+1001819,137,ESCALATOR_CLOSURE,UNKNOWN_CAUSE,1,Oak Grove Escalator 105 (Commuter Rail platform to unpaid lobby) is unavailable.,Reading Depot - Malden Center Station,Bus
+1001819,CR-Haverhill,ESCALATOR_CLOSURE,UNKNOWN_CAUSE,1,Oak Grove Escalator 105 (Commuter Rail platform to unpaid lobby) is unavailable.,Haverhill Line,Commuter Rail
+1001819,Orange,ESCALATOR_CLOSURE,UNKNOWN_CAUSE,1,Oak Grove Escalator 105 (Commuter Rail platform to unpaid lobby) is unavailable.,Orange Line,Subway
+1000002,CR-Worcester,STATION_ISSUE,UNKNOWN_CAUSE,1,There is no accessible path connecting the inbound and outbound platforms at Wellesley Square Station. The existing path includes steep slopes and is long. Designs are underway to provide for a fully compliant pathway.,Framingham/Worcester Line,Commuter Rail
+1047336,38,DELAY,TRAFFIC,5,Route 38 is experiencing delays of about 20 minutes due to traffic.,Wren Street - Forest Hills Station,Bus
+1047418,106,DELAY,TRAFFIC,5,Route 106 is experiencing delays of about 20 minutes due to traffic.,Lebanon Loop - Wellington Station,Bus
+1045747,114,ESCALATOR_CLOSURE,MAINTENANCE,3,Maverick Escalator 433 (Unpaid lobby to Maverick Square) is unavailable due to maintenance.,Market Basket - Maverick Station,Bus
+1045747,116,ESCALATOR_CLOSURE,MAINTENANCE,3,Maverick Escalator 433 (Unpaid lobby to Maverick Square) is unavailable due to maintenance.,Wonderland Station - Maverick Station,Bus
+1045747,120,ESCALATOR_CLOSURE,MAINTENANCE,3,Maverick Escalator 433 (Unpaid lobby to Maverick Square) is unavailable due to maintenance.,Orient Heights Station - Jeffries Point,Bus
+1045747,121,ESCALATOR_CLOSURE,MAINTENANCE,3,Maverick Escalator 433 (Unpaid lobby to Maverick Square) is unavailable due to maintenance.,Wood Island Station - Maverick Station,Bus
+1045747,Blue,ESCALATOR_CLOSURE,MAINTENANCE,3,Maverick Escalator 433 (Unpaid lobby to Maverick Square) is unavailable due to maintenance.,Blue Line,Subway
+1047284,CR-Worcester,TRACK_CHANGE,UNKNOWN_CAUSE,7,"Normal boarding has resumed for all Framingham/Worcester Line trains at Lansdowne and Back Bay.
+",Framingham/Worcester Line,Commuter Rail
+1046898,114,ESCALATOR_CLOSURE,MAINTENANCE,3,Maverick Escalator 434 (Maverick Square to unpaid lobby) is unavailable due to maintenance.,Market Basket - Maverick Station,Bus
+1046898,116,ESCALATOR_CLOSURE,MAINTENANCE,3,Maverick Escalator 434 (Maverick Square to unpaid lobby) is unavailable due to maintenance.,Wonderland Station - Maverick Station,Bus
+1046898,120,ESCALATOR_CLOSURE,MAINTENANCE,3,Maverick Escalator 434 (Maverick Square to unpaid lobby) is unavailable due to maintenance.,Orient Heights Station - Jeffries Point,Bus
+1046898,121,ESCALATOR_CLOSURE,MAINTENANCE,3,Maverick Escalator 434 (Maverick Square to unpaid lobby) is unavailable due to maintenance.,Wood Island Station - Maverick Station,Bus
+1046898,Blue,ESCALATOR_CLOSURE,MAINTENANCE,3,Maverick Escalator 434 (Maverick Square to unpaid lobby) is unavailable due to maintenance.,Blue Line,Subway
+1047382,451,DELAY,TRAFFIC,5,Route 451 is experiencing delays of about 20 minutes due to traffic.,North Beverly Station - Salem Depot,Bus
+1047415,553,DELAY,TRAFFIC,5,Route 553 is experiencing delays of about 20 minutes due to traffic.,Roberts - Newton Corner,Bus
+1047378,749,DELAY,TRAFFIC,5,SL5 is experiencing delays of about 20 minutes due to traffic.,Nubian Station - Temple Place,Bus
+1001815,741,ESCALATOR_CLOSURE,MAINTENANCE,1,Courthouse Escalator 415 (Airport/Design Center platform to lobby) is unavailable due to ongoing construction at the station.,Logan Airport Terminals - South Station,Bus
+1001815,742,ESCALATOR_CLOSURE,MAINTENANCE,1,Courthouse Escalator 415 (Airport/Design Center platform to lobby) is unavailable due to ongoing construction at the station.,Design Center - South Station,Bus
+1001815,743,ESCALATOR_CLOSURE,MAINTENANCE,1,Courthouse Escalator 415 (Airport/Design Center platform to lobby) is unavailable due to ongoing construction at the station.,Chelsea Station - South Station,Bus
+1007352,Boat-F1,PARKING_ISSUE,UNKNOWN_CAUSE,3,Hingham/Hull Ferry: Portions of the Town of Hull parking lot at the Hull ferry terminal are blocked off for sewer pump station construction work. More information is available at https://www.town.hull.ma.us/,Hingham Ferry,Ferry
+1007352,Boat-F2H,PARKING_ISSUE,UNKNOWN_CAUSE,3,Hingham/Hull Ferry: Portions of the Town of Hull parking lot at the Hull ferry terminal are blocked off for sewer pump station construction work. More information is available at https://www.town.hull.ma.us/,Hingham/Hull Ferry,Ferry
+1047383,33,DELAY,TRAFFIC,7,Route 33 is experiencing delays of about 30 minutes due to traffic.,River Street & Milton Street - Mattapan Station,Bus
+1047318,50,DELAY,TRAFFIC,5,Route 50 is experiencing delays of about 20 minutes due to traffic.,Cleary Square - Forest Hills Station,Bus
+1047302,Blue,ESCALATOR_CLOSURE,MAINTENANCE,3,Beachmont Escalator 378 (Paid lobby to Bowdoin platform) is unavailable due to maintenance.,Blue Line,Subway
+1042451,210,PARKING_ISSUE,UNKNOWN_CAUSE,1,"Quincy Adams Garage Notice: Beginning Tuesday, November 3, MBTA parking at Quincy Adams will be limited to the A side of the Garage. The B side of the garage will be reserved for Logan Express Braintree.",Quincy Center Station - Fields Corner Station,Bus
+1042451,238,PARKING_ISSUE,UNKNOWN_CAUSE,1,"Quincy Adams Garage Notice: Beginning Tuesday, November 3, MBTA parking at Quincy Adams will be limited to the A side of the Garage. The B side of the garage will be reserved for Logan Express Braintree.",Holbrook/Randolph Station - Quincy Center Station,Bus
+1042451,Red,PARKING_ISSUE,UNKNOWN_CAUSE,1,"Quincy Adams Garage Notice: Beginning Tuesday, November 3, MBTA parking at Quincy Adams will be limited to the A side of the Garage. The B side of the garage will be reserved for Logan Express Braintree.",Red Line,Subway
+1047307,42,DELAY,TRAFFIC,5,Route 42 is experiencing delays of about 20 minutes due to traffic.,Forest Hills Station - Nubian Station,Bus
+1047365,24,DELAY,TRAFFIC,7,Route 24 is experiencing delays of about 30 minutes due to traffic.,Wakefield Avenue & Truman Parkway - Ashmont Station,Bus
+1047410,CR-NewBedford,DELAY,UNKNOWN_CAUSE,4,Fall River Line Train 8119 (5:05 PM from South Station) is operating 5-15 minutes behind schedule between Montello and Fall River Depot.,Fall River/New Bedford Line,Commuter Rail
+1040249,Blue,ESCALATOR_CLOSURE,MAINTENANCE,3,State Escalator 374 (Oak Grove platform to City Hall Plaza) is unavailable due to maintenance.,Blue Line,Subway
+1040249,Orange,ESCALATOR_CLOSURE,MAINTENANCE,3,State Escalator 374 (Oak Grove platform to City Hall Plaza) is unavailable due to maintenance.,Orange Line,Subway
+1035973,112,DETOUR,CONSTRUCTION,7,Routes 112 and 121 are detoured until further notice due to construction at Day Square. The closest stops with outbound service are Wood Island and Chelsea St @ Curtis St. The closest stop with inbound service is Chelsea St opp Curtis St.,Wellington Station - Wood Island Station,Bus
+1035973,120,DETOUR,CONSTRUCTION,7,Routes 112 and 121 are detoured until further notice due to construction at Day Square. The closest stops with outbound service are Wood Island and Chelsea St @ Curtis St. The closest stop with inbound service is Chelsea St opp Curtis St.,Orient Heights Station - Jeffries Point,Bus
+1035973,121,DETOUR,CONSTRUCTION,7,Routes 112 and 121 are detoured until further notice due to construction at Day Square. The closest stops with outbound service are Wood Island and Chelsea St @ Curtis St. The closest stop with inbound service is Chelsea St opp Curtis St.,Wood Island Station - Maverick Station,Bus
+1014476,558,STOP_MOVE,CONSTRUCTION,1,Route 558: Four stops have moved due to construction. Moved inbound stops: Commonwealth Ave @ Islington Rd & Commonwealth Ave opp Marriott. Moved outbound stops: Commonwealth Ave @ Islington Rd & Commonwealth Ave @ Marriott.,Riverside Station - Newton Corner,Bus
+1047426,CR-Lowell,DELAY,UNKNOWN_CAUSE,4,Lowell Line Train 3034 (6:07 PM from Lowell) is operating 5-15 minutes behind schedule between Wedgemere and North Station.,Lowell Line,Commuter Rail
+1039875,450,ELEVATOR_CLOSURE,UNKNOWN_CAUSE,3,Salem Elevator 997 (Bridge St to parking garage to busway and platforms) is unavailable due to maintenance.,Salem Depot - Wonderland or Haymarket Station,Bus
+1039875,451,ELEVATOR_CLOSURE,UNKNOWN_CAUSE,3,Salem Elevator 997 (Bridge St to parking garage to busway and platforms) is unavailable due to maintenance.,North Beverly Station - Salem Depot,Bus
+1039875,455,ELEVATOR_CLOSURE,UNKNOWN_CAUSE,3,Salem Elevator 997 (Bridge St to parking garage to busway and platforms) is unavailable due to maintenance.,Salem Depot - Wonderland Station,Bus
+1039875,456,ELEVATOR_CLOSURE,UNKNOWN_CAUSE,3,Salem Elevator 997 (Bridge St to parking garage to busway and platforms) is unavailable due to maintenance.,"Salem Depot - Central Square, Lynn",Bus
+1039875,465,ELEVATOR_CLOSURE,UNKNOWN_CAUSE,3,Salem Elevator 997 (Bridge St to parking garage to busway and platforms) is unavailable due to maintenance.,Danvers Square - Salem Depot via Liberty Tree Mall,Bus
+1039875,CR-Newburyport,ELEVATOR_CLOSURE,UNKNOWN_CAUSE,3,Salem Elevator 997 (Bridge St to parking garage to busway and platforms) is unavailable due to maintenance.,Newburyport/Rockport Line,Commuter Rail
+1046967,16,ESCALATOR_CLOSURE,MAINTENANCE,3,JFK/UMass Escalator 322 (Ashmont platform to Columbia Road) is unavailable due to maintenance.,Forest Hills Station - Andrew Station or Harbor Point,Bus
+1046967,41,ESCALATOR_CLOSURE,MAINTENANCE,3,JFK/UMass Escalator 322 (Ashmont platform to Columbia Road) is unavailable due to maintenance.,Centre Street & Eliot Street - JFK/UMass Station,Bus
+1046967,8,ESCALATOR_CLOSURE,MAINTENANCE,3,JFK/UMass Escalator 322 (Ashmont platform to Columbia Road) is unavailable due to maintenance.,Harbor Point - Kenmore Station,Bus
+1046967,CR-Greenbush,ESCALATOR_CLOSURE,MAINTENANCE,3,JFK/UMass Escalator 322 (Ashmont platform to Columbia Road) is unavailable due to maintenance.,Greenbush Line,Commuter Rail
+1046967,CR-Kingston,ESCALATOR_CLOSURE,MAINTENANCE,3,JFK/UMass Escalator 322 (Ashmont platform to Columbia Road) is unavailable due to maintenance.,Kingston Line,Commuter Rail
+1046967,CR-NewBedford,ESCALATOR_CLOSURE,MAINTENANCE,3,JFK/UMass Escalator 322 (Ashmont platform to Columbia Road) is unavailable due to maintenance.,Fall River/New Bedford Line,Commuter Rail
+1046967,Red,ESCALATOR_CLOSURE,MAINTENANCE,3,JFK/UMass Escalator 322 (Ashmont platform to Columbia Road) is unavailable due to maintenance.,Red Line,Subway
+1047249,441,DETOUR,CONSTRUCTION,7,Routes 441 and 442 are detoured due to construction. No service to Old Town. Inbound service will originate at Pleasant St @ Spring St. Outbound service will terminate at Pleasant St opp Bessom St.,Marblehead - Wonderland Station via Paradise Road,Bus
+1047249,442,DETOUR,CONSTRUCTION,7,Routes 441 and 442 are detoured due to construction. No service to Old Town. Inbound service will originate at Pleasant St @ Spring St. Outbound service will terminate at Pleasant St opp Bessom St.,Marblehead - Wonderland Station via Humphrey Street,Bus
+1047361,741,DELAY,TRAFFIC,5,SL1 is experiencing delays of about 20 minutes due to traffic.,Logan Airport Terminals - South Station,Bus
+1047361,746,DELAY,TRAFFIC,5,SL1 is experiencing delays of about 20 minutes due to traffic.,Silver Line Way - South Station,Bus
+1047282,350,DELAY,TRAFFIC,5,Route 350 is experiencing delays of about 20 minutes due to traffic.,North Burlington - Alewife Station,Bus
+1037419,Orange,NOTICE,UNKNOWN_CAUSE,1,Oak Grove Station notice: Premium parking is available at this location. You can buy premium passes and permits using SpotHero.,Orange Line,Subway
+1047330,59,DELAY,TRAFFIC,7,Route 59 is experiencing delays of about 30 minutes due to traffic.,Needham Junction - Watertown Square,Bus
+1047421,CR-Haverhill,DELAY,UNKNOWN_CAUSE,4,Haverhill Line Train 2017 (5:35 PM from North Station) is operating 5-15 minutes behind schedule between Lawrence and Haverhill.,Haverhill Line,Commuter Rail
+1047360,743,DELAY,TRAFFIC,5,SL3 is experiencing delays of about 20 minutes due to traffic.,Chelsea Station - South Station,Bus
+1047360,746,DELAY,TRAFFIC,5,SL3 is experiencing delays of about 20 minutes due to traffic.,Silver Line Way - South Station,Bus
+1047403,65,DELAY,TRAFFIC,5,Route 65 is experiencing delays of about 20 minutes due to traffic.,Brighton Center - Ruggles Station,Bus
+1047373,354,DELAY,TRAFFIC,5,Route 354 is experiencing delays of about 20 minutes due to traffic.,"North Burlington - State Street, Boston",Bus
+1047339,78,DELAY,TRAFFIC,5,Route 78 is experiencing delays of about 20 minutes due to traffic.,Arlmont Village - Harvard Station,Bus
+1000001,CR-Providence,STATION_ISSUE,UNKNOWN_CAUSE,1,"To accommodate renovations at Providence Station, construction barriers have been installed and the southern stairwell to Track 1 is out of service. Staircase access is available to Track 3 and Track 5.",Providence/Stoughton Line,Commuter Rail
+1047254,211,DETOUR,UNKNOWN_CAUSE,7,Route 211 is detoured. The closest stops with outbound service are Harvard St @ Holbrook Rd and Wilson Ave @ Mascoma St. The closest stops with inbound service are Wilson Ave opp Mascoma St and Harvard St @ Elliot Ave.,Quincy Center Station - Squantum,Bus
+1047299,47,DELAY,TRAFFIC,6,Route 47 is experiencing delays of about 25 minutes due to traffic.,"Central Square, Cambridge - Broadway Station",Bus
+1047425,CR-Fitchburg,DELAY,UNKNOWN_CAUSE,4,Fitchburg Line Train 4017 (5:30 PM from North Station) is operating 5-15 minutes behind schedule between Littleton/Route 495 and Wachusett.,Fitchburg Line,Commuter Rail
+1047381,441442,DELAY,TRAFFIC,5,Route 442 is experiencing delays of about 20 minutes due to traffic.,,
+1047381,442,DELAY,TRAFFIC,5,Route 442 is experiencing delays of about 20 minutes due to traffic.,Marblehead - Wonderland Station via Humphrey Street,Bus
+1026060,Green-E,STATION_CLOSURE,UNKNOWN_CAUSE,7,Green Line E Branch: Symphony station is closed for major accessibility upgrades. Riders can use Prudential or Northeastern to access E Branch service. The station is expected to reopen in 2029.,Green Line E,Light Rail
+1047419,131,DELAY,TRAFFIC,5,Route 131 is experiencing delays of about 20 minutes due to traffic.,Melrose Highlands - Malden Center Station,Bus
+1031519,Blue,ELEVATOR_CLOSURE,MAINTENANCE,3,"State Elevator 803 (Forest Hills platform to Washington Street, Milk Street) is unavailable due to maintenance through Tuesday, December 1. ",Blue Line,Subway
+1031519,Orange,ELEVATOR_CLOSURE,MAINTENANCE,3,"State Elevator 803 (Forest Hills platform to Washington Street, Milk Street) is unavailable due to maintenance through Tuesday, December 1. ",Orange Line,Subway
+1007380,426,ACCESS_ISSUE,MAINTENANCE,3,Lynn Elevators 929 (Street to parking garage) and 930 (Street to parking garage) are unavailable until further notice. Please use the accessible parking spaces on the ground level of the garage while the elevators are out of service.,"Central Square, Lynn - Haymarket or Wonderland Station",Bus
+1007380,429,ACCESS_ISSUE,MAINTENANCE,3,Lynn Elevators 929 (Street to parking garage) and 930 (Street to parking garage) are unavailable until further notice. Please use the accessible parking spaces on the ground level of the garage while the elevators are out of service.,"Northgate Shopping Center - Central Square, Lynn",Bus
+1007380,435,ACCESS_ISSUE,MAINTENANCE,3,Lynn Elevators 929 (Street to parking garage) and 930 (Street to parking garage) are unavailable until further notice. Please use the accessible parking spaces on the ground level of the garage while the elevators are out of service.,"Liberty Tree Mall - Central Square, Lynn via Peabody Square",Bus
+1007380,436,ACCESS_ISSUE,MAINTENANCE,3,Lynn Elevators 929 (Street to parking garage) and 930 (Street to parking garage) are unavailable until further notice. Please use the accessible parking spaces on the ground level of the garage while the elevators are out of service.,"Liberty Tree Mall - Central Square, Lynn via Goodwin Circle",Bus
+1007380,439,ACCESS_ISSUE,MAINTENANCE,3,Lynn Elevators 929 (Street to parking garage) and 930 (Street to parking garage) are unavailable until further notice. Please use the accessible parking spaces on the ground level of the garage while the elevators are out of service.,Nahant - Wonderland Station,Bus
+1007380,441,ACCESS_ISSUE,MAINTENANCE,3,Lynn Elevators 929 (Street to parking garage) and 930 (Street to parking garage) are unavailable until further notice. Please use the accessible parking spaces on the ground level of the garage while the elevators are out of service.,Marblehead - Wonderland Station via Paradise Road,Bus
+1007380,442,ACCESS_ISSUE,MAINTENANCE,3,Lynn Elevators 929 (Street to parking garage) and 930 (Street to parking garage) are unavailable until further notice. Please use the accessible parking spaces on the ground level of the garage while the elevators are out of service.,Marblehead - Wonderland Station via Humphrey Street,Bus
+1007380,455,ACCESS_ISSUE,MAINTENANCE,3,Lynn Elevators 929 (Street to parking garage) and 930 (Street to parking garage) are unavailable until further notice. Please use the accessible parking spaces on the ground level of the garage while the elevators are out of service.,Salem Depot - Wonderland Station,Bus
+1007380,456,ACCESS_ISSUE,MAINTENANCE,3,Lynn Elevators 929 (Street to parking garage) and 930 (Street to parking garage) are unavailable until further notice. Please use the accessible parking spaces on the ground level of the garage while the elevators are out of service.,"Salem Depot - Central Square, Lynn",Bus
+1022195,220,DETOUR,CONSTRUCTION,7,Route 220 detoured due to construction. The closest stops with inbound service are 319 Lincoln St & Lincoln St opp Lincoln Plaza. The closest stops with outbound service are Lincoln St @ Lincoln Plaza & 322 Lincoln St.,Hingham Depot - Quincy Center Station,Bus
+1022133,CR-Haverhill,STATION_ISSUE,UNKNOWN_CAUSE,1,The Wyoming Hill Mini-high platform project has begun. Passengers and local residents can expect construction vehicles and activity during the day through the Winter of 2026.,Haverhill Line,Commuter Rail
+1047357,30,DELAY,TRAFFIC,6,Route 30 is experiencing delays of about 25 minutes due to traffic.,Mattapan Station - Forest Hills Station via Cummins Highway and Roslindale Square,Bus
+1047401,60,DELAY,TRAFFIC,6,Route 60 is experiencing delays of about 25 minutes due to traffic.,Chestnut Hill - Kenmore Station,Bus
+1047390,CR-Franklin,DELAY,UNKNOWN_CAUSE,4,Franklin Line Train 7034 (4:50 PM from Forge Park/495) is operating 5-15 minutes behind schedule between Franklin and South Station.,Franklin/Foxboro Line,Commuter Rail
+1007353,Boat-F1,PARKING_ISSUE,UNKNOWN_CAUSE,3,"Hingham Ferry Parking Notice: Passengers should allow for extra time to park and to access the ferry in Hingham due to work being done for the new dock. In addition, Route 220 buses are bypassing the shipyard and are remaining on Route 3A.",Hingham Ferry,Ferry
+1007353,Boat-F2H,PARKING_ISSUE,UNKNOWN_CAUSE,3,"Hingham Ferry Parking Notice: Passengers should allow for extra time to park and to access the ferry in Hingham due to work being done for the new dock. In addition, Route 220 buses are bypassing the shipyard and are remaining on Route 3A.",Hingham/Hull Ferry,Ferry
+1018209,CR-Franklin,STATION_ISSUE,UNKNOWN_CAUSE,1,"The Endicott Mini-high platform project has begun. Passengers and local residents can expect pedestrian path changes to platform, construction vehicles, and construction activity during the day through the Winter of 2026.",Franklin/Foxboro Line,Commuter Rail
+1047243,441,DETOUR,UNKNOWN_CAUSE,7,Rtes 441 & 442 detoured - omitting Old Town due to construction. Connect at Pleasant St @ Washington St.,Marblehead - Wonderland Station via Paradise Road,Bus
+1047243,441442,DETOUR,UNKNOWN_CAUSE,7,Rtes 441 & 442 detoured - omitting Old Town due to construction. Connect at Pleasant St @ Washington St.,,
+1047422,110,DELAY,TRAFFIC,5,Route 110 is experiencing delays of about 20 minutes due to traffic.,Wonderland Station - Wellington Station,Bus
+1041230,15,ESCALATOR_CLOSURE,MAINTENANCE,3,"Ashmont Escalator 438 (Ashmont platform to Mattapan Line, busway) is unavailable due to maintenance.",Fields Corner Station - Ruggles Station,Bus
+1041230,18,ESCALATOR_CLOSURE,MAINTENANCE,3,"Ashmont Escalator 438 (Ashmont platform to Mattapan Line, busway) is unavailable due to maintenance.",Ashmont Station - Andrew Station,Bus
+1041230,21,ESCALATOR_CLOSURE,MAINTENANCE,3,"Ashmont Escalator 438 (Ashmont platform to Mattapan Line, busway) is unavailable due to maintenance.",Ashmont Station - Forest Hills Station,Bus
+1041230,215,ESCALATOR_CLOSURE,MAINTENANCE,3,"Ashmont Escalator 438 (Ashmont platform to Mattapan Line, busway) is unavailable due to maintenance.",Quincy Center Station - Ashmont Station via West Quincy,Bus
+1041230,217,ESCALATOR_CLOSURE,MAINTENANCE,3,"Ashmont Escalator 438 (Ashmont platform to Mattapan Line, busway) is unavailable due to maintenance.",Quincy Center Station - Ashmont Station,Bus
+1041230,22,ESCALATOR_CLOSURE,MAINTENANCE,3,"Ashmont Escalator 438 (Ashmont platform to Mattapan Line, busway) is unavailable due to maintenance.",Ashmont Station - Ruggles Station via Talbot Avenue,Bus
+1041230,23,ESCALATOR_CLOSURE,MAINTENANCE,3,"Ashmont Escalator 438 (Ashmont platform to Mattapan Line, busway) is unavailable due to maintenance.",Ashmont Station - Ruggles Station via Washington Street,Bus
+1041230,24,ESCALATOR_CLOSURE,MAINTENANCE,3,"Ashmont Escalator 438 (Ashmont platform to Mattapan Line, busway) is unavailable due to maintenance.",Wakefield Avenue & Truman Parkway - Ashmont Station,Bus
+1041230,240,ESCALATOR_CLOSURE,MAINTENANCE,3,"Ashmont Escalator 438 (Ashmont platform to Mattapan Line, busway) is unavailable due to maintenance.",Avon Square - Ashmont Station,Bus
+1041230,26,ESCALATOR_CLOSURE,MAINTENANCE,3,"Ashmont Escalator 438 (Ashmont platform to Mattapan Line, busway) is unavailable due to maintenance.",Ashmont Station - Norfolk Street Loop,Bus
+1041230,Mattapan,ESCALATOR_CLOSURE,MAINTENANCE,3,"Ashmont Escalator 438 (Ashmont platform to Mattapan Line, busway) is unavailable due to maintenance.",Mattapan Line,Light Rail
+1041230,Red,ESCALATOR_CLOSURE,MAINTENANCE,3,"Ashmont Escalator 438 (Ashmont platform to Mattapan Line, busway) is unavailable due to maintenance.",Red Line,Subway
+1000004,CR-NewBedford,STATION_ISSUE,UNKNOWN_CAUSE,1,The Riverside Ave entrance at Campello Station is currently closed. Passengers may continue to use the Plain St entrance.,Fall River/New Bedford Line,Commuter Rail
+1044549,Green-C,STATION_CLOSURE,CONSTRUCTION,7,"Green Line C Branch: Inbound trains are not stopping at Summit Ave through Dec 10, while accessibility upgrades are being done. The closest stops with service are Coolidge Corner and Brandon Hall, which are each 0.2 miles away (about a 4 - 6 minute walk).",Green Line C,Light Rail
+1001863,429,DETOUR,CONSTRUCTION,7,"Route 429 outbound is detoured due to construction, skipping Oxford St @ Washington St & Oxford St @ Market St. The closest outbound stops with service are Lynn Station & Market St @ Liberty St.","Northgate Shopping Center - Central Square, Lynn",Bus
+1047424,CR-NewBedford,DELAY,UNKNOWN_CAUSE,5,New Bedford Line Train 8021 (5:40 PM from South Station) is operating 10-20 minutes behind schedule between Campello and New Bedford.,Fall River/New Bedford Line,Commuter Rail
+1009729,350,ESCALATOR_CLOSURE,MAINTENANCE,3,Alewife Escalator 353 (Main concourse to busway) is unavailable due to maintenance.,North Burlington - Alewife Station,Bus
+1009729,62,ESCALATOR_CLOSURE,MAINTENANCE,3,Alewife Escalator 353 (Main concourse to busway) is unavailable due to maintenance.,Bedford VA Hospital - Alewife Station,Bus
+1009729,67,ESCALATOR_CLOSURE,MAINTENANCE,3,Alewife Escalator 353 (Main concourse to busway) is unavailable due to maintenance.,Turkey Hill - Alewife Station,Bus
+1009729,76,ESCALATOR_CLOSURE,MAINTENANCE,3,Alewife Escalator 353 (Main concourse to busway) is unavailable due to maintenance.,Lincoln Lab - Alewife Station,Bus
+1009729,Red,ESCALATOR_CLOSURE,MAINTENANCE,3,Alewife Escalator 353 (Main concourse to busway) is unavailable due to maintenance.,Red Line,Subway
+1047319,51,DELAY,TRAFFIC,6,Route 51 is experiencing delays of about 25 minutes due to traffic.,Reservoir Station - Forest Hills Station,Bus
+1047337,CR-Worcester,TRACK_CHANGE,UNKNOWN_CAUSE,7,Please board all inbound Framingham Line trains on the outbound platform (Track 1) at Framingham through Wellesley Farms until 8:00 pm.,Framingham/Worcester Line,Commuter Rail

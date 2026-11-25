@@ -1,0 +1,98 @@
+cluster_id,route_id,total_trips,avg_deviation_min,delayed_pct,route_name,transit_mode
+0,37,3,38.67694035947712,100.0,Baker Street & Vermont Street - Forest Hills Station,Bus
+0,40,2,36.27940170940171,100.0,Georgetowne - Forest Hills Station,Bus
+0,34E,1,15.779166666666667,100.0,Walpole Center - Forest Hills Station,Bus
+0,36,7,14.055168759811618,85.71428571428571,Millennium Park or VA Hospital - Forest Hills Station,Bus
+0,34,3,8.21010582010582,66.66666666666666,Dedham Mall - Forest Hills Station,Bus
+0,35,3,3.1312576312576312,0.0,Dedham Mall or Stimson Street - Forest Hills Station,Bus
+0,38,1,1.4666666666666666,0.0,Wren Street - Forest Hills Station,Bus
+0,39,2,0.0,0.0,Forest Hills Station - Back Bay Station,Bus
+0,14,1,-0.3,0.0,Roslindale Square - Heath Street,Bus
+1,50,3,40.431481481481484,100.0,Cleary Square - Forest Hills Station,Bus
+1,32,6,12.524999999999999,100.0,Wolcott Square - Forest Hills Station,Bus
+2,97,1,48.7,100.0,Malden Center Station - Wellington Station,Bus
+2,105,2,28.023809523809526,100.0,Malden Center Station - Sullivan Square Station via Newland Street Housing,Bus
+2,109,3,13.948333333333332,100.0,Linden Square - Harvard Square via Sullivan,Bus
+2,99,2,11.843055555555557,50.0,Woodland Road - Wellington Station,Bus
+2,110,2,9.035,50.0,Wonderland Station - Wellington Station,Bus
+2,106,3,8.172222222222222,33.33333333333333,Lebanon Loop - Wellington Station,Bus
+2,104,2,5.780555555555556,50.0,Malden Center Station - Airport Station,Bus
+2,112,1,2.4433333333333334,0.0,Wellington Station - Wood Island Station,Bus
+3,105,2,26.866666666666667,100.0,Malden Center Station - Sullivan Square Station via Newland Street Housing,Bus
+3,97,3,20.905555555555555,66.66666666666666,Malden Center Station - Wellington Station,Bus
+3,110,3,4.388888888888889,33.33333333333333,Wonderland Station - Wellington Station,Bus
+3,109,1,2.3625,0.0,Linden Square - Harvard Square via Sullivan,Bus
+3,112,1,2.066666666666667,0.0,Wellington Station - Wood Island Station,Bus
+3,99,1,1.5833333333333333,0.0,Woodland Road - Wellington Station,Bus
+3,106,1,0.5833333333333334,0.0,Lebanon Loop - Wellington Station,Bus
+4,350,2,14.105555555555554,50.0,North Burlington - Alewife Station,Bus
+4,77,2,8.393333333333333,50.0,Arlington Heights - Harvard Station,Bus
+5,78,2,21.101388888888888,100.0,Arlmont Village - Harvard Station,Bus
+5,73,7,13.964880952380952,85.71428571428571,Waverley Square - Harvard Station,Bus
+5,77,5,12.640555555555556,60.0,Arlington Heights - Harvard Station,Bus
+5,75,2,9.580555555555556,50.0,Belmont Center - Harvard via Huron Avenue,Bus
+5,96,3,9.177777777777777,66.66666666666666,Medford Square - Harvard Station,Bus
+5,83,2,7.6708333333333325,50.0,"Rindge Avenue - Central Square, Cambridge",Bus
+5,74,2,6.761111111111111,50.0,Belmont Center - Harvard via Concord Avenue,Bus
+5,71,5,5.102015873015874,60.0,Watertown Square - Harvard Station,Bus
+5,66,1,4.9,0.0,Harvard Square - Nubian Station,Bus
+5,86,1,0.7666666666666667,0.0,Harvard Square - Reservoir Station,Bus
+6,60,1,19.57,100.0,Chestnut Hill - Kenmore Station,Bus
+6,85,2,18.02559523809524,100.0,Assembly Row - Ruggles Station,Bus
+6,39,5,13.29111111111111,40.0,Forest Hills Station - Back Bay Station,Bus
+6,47,4,11.628657407407408,100.0,"Central Square, Cambridge - Broadway Station",Bus
+6,15,7,11.398412698412699,57.14285714285714,Fields Corner Station - Ruggles Station,Bus
+6,19,4,9.111875,75.0,Fields Corner Station - Kenmore or Ruggles Station,Bus
+6,22,1,8.416666666666666,100.0,Ashmont Station - Ruggles Station via Talbot Avenue,Bus
+6,66,6,5.0189814814814815,50.0,Harvard Square - Nubian Station,Bus
+6,8,2,4.342708333333333,0.0,Harbor Point - Kenmore Station,Bus
+6,28,3,3.9768518518518516,33.33333333333333,Mattapan Station - Ruggles Station,Bus
+6,45,2,3.458333333333333,50.0,Franklin Park - Ruggles Station,Bus
+6,1,3,2.4546296296296295,33.33333333333333,Harvard Square - Nubian Station,Bus
+6,44,3,2.087037037037037,33.33333333333333,Jackson Square Station - Ruggles Station,Bus
+6,708,3,1.575925925925926,0.0,Beth Israel Deaconess Hospital - Andrew Station,Bus
+6,65,6,0.49273148148148155,0.0,Brighton Center - Ruggles Station,Bus
+6,41,1,-0.31666666666666665,0.0,Centre Street & Eliot Street - JFK/UMass Station,Bus
+6,23,5,-0.638888888888889,20.0,Ashmont Station - Ruggles Station via Washington Street,Bus
+7,31,7,12.119421596921597,57.14285714285714,Mattapan Station - Forest Hills Station via Morton Street,Bus
+7,28,5,8.116845238095237,60.0,Mattapan Station - Ruggles Station,Bus
+7,21,1,4.238888888888888,0.0,Ashmont Station - Forest Hills Station,Bus
+7,29,1,1.6354166666666667,0.0,Mattapan Station - Jackson Square Station,Bus
+8,99,1,19.316666666666666,100.0,Woodland Road - Wellington Station,Bus
+8,131,2,12.691666666666666,100.0,Melrose Highlands - Malden Center Station,Bus
+8,106,2,11.054166666666665,50.0,Lebanon Loop - Wellington Station,Bus
+8,108,2,7.183333333333334,50.0,Linden Square - Wellington Station,Bus
+8,104,3,3.227777777777778,33.33333333333333,Malden Center Station - Airport Station,Bus
+8,430,2,2.2333333333333334,0.0,Saugus Center - Malden Center Station,Bus
+8,411,3,1.3388888888888888,0.0,Kennedy Drive or Jack Satter House - Malden Center Station,Bus
+9,18,1,15.166666666666668,100.0,Ashmont Station - Andrew Station,Bus
+9,17,3,14.142857142857144,66.66666666666666,Fields Corner Station - Andrew Station,Bus
+9,201,1,7.716666666666667,100.0,Fields Corner Loop via Neponset Avenue,Bus
+9,15,1,2.333333333333333,0.0,Fields Corner Station - Ruggles Station,Bus
+9,19,1,0.0,0.0,Fields Corner Station - Kenmore or Ruggles Station,Bus
+9,202,1,0.0,0.0,Fields Corner Loop via Adams Street,Bus
+10,28,4,9.79125,75.0,Mattapan Station - Ruggles Station,Bus
+10,22,6,5.660416666666666,33.33333333333333,Ashmont Station - Ruggles Station via Talbot Avenue,Bus
+10,45,4,5.639583333333333,50.0,Franklin Park - Ruggles Station,Bus
+10,16,3,4.45,33.33333333333333,Forest Hills Station - Andrew Station or Harbor Point,Bus
+11,11,2,12.99375,50.0,City Point - Chauncy Street & Summer Street,Bus
+11,505,2,10.616666666666665,50.0,Waltham Center - Federal Street & Franklin Street,Bus
+11,749,5,6.3950000000000005,20.0,Nubian Station - Temple Place,Bus
+11,9,1,4.208333333333333,0.0,City Point - Copley Square,Bus
+11,751,3,0.9027777777777777,0.0,Nubian Station - South Station,Bus
+11,504,1,-1.1333333333333333,0.0,Watertown Yard - Federal Street & Franklin Street,Bus
+12,83,1,15.625,100.0,"Rindge Avenue - Central Square, Cambridge",Bus
+12,91,1,6.461111111111111,100.0,"Sullivan Square Station - Central Square, Cambridge",Bus
+12,64,1,5.288888888888889,100.0,Oak Square - Kendall/MIT Station,Bus
+12,70,1,2.6,0.0,Market Place Drive or Waltham Center - University Park,Bus
+13,34E,1,15.156666666666666,100.0,Walpole Center - Forest Hills Station,Bus
+13,35,1,5.12,100.0,Dedham Mall or Stimson Street - Forest Hills Station,Bus
+13,34,1,-1.0133333333333332,0.0,Dedham Mall - Forest Hills Station,Bus
+14,66,2,7.591666666666667,50.0,Harvard Square - Nubian Station,Bus
+14,64,1,3.4833333333333334,0.0,Oak Square - Kendall/MIT Station,Bus
+14,501,1,3.25,0.0,Brighton Center - Federal Street & Franklin Street,Bus
+14,57,1,1.2,0.0,Watertown Yard - Kenmore Station,Bus
+15,32,3,7.861111111111111,66.66666666666666,Wolcott Square - Forest Hills Station,Bus
+15,14,1,0.6055555555555555,0.0,Roslindale Square - Heath Street,Bus
+16,86,2,8.993333333333334,50.0,Harvard Square - Reservoir Station,Bus
+16,70,1,-0.6133333333333333,0.0,Market Place Drive or Waltham Center - University Park,Bus

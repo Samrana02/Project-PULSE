@@ -1,0 +1,7 @@
+cluster_a,cluster_b,shared_trips,shared_routes,connecting_routes
+2,3,7,6,"105, 106, 110, 112, 97, 99"
+2,8,4,3,"104, 106, 99"
+7,10,2,1,28
+0,13,2,2,"34, 34E"
+0,15,1,1,14
+1,15,1,1,32
